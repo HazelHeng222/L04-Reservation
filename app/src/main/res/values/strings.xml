@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Your Name: </string>
+    <string name="ph">Phone Number: </string>
+    <string name="tabSize">Table size: </string>
+    <string name="Num">Number of People</string>
+    <string name="checkSmoke">Smoking</string>
+    <string name="butCancel">Cancel</string>
+    <string name="butReserve">Reserve</string>
+
+</resources>
